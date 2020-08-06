@@ -1,5 +1,5 @@
 # WebRTC_zoom_app
-```javascript
+```github
 echo "# WebRTC_zoom_app" >> README.md
 git init
 git add README.md
