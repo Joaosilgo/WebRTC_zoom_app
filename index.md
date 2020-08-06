@@ -36,5 +36,5 @@ const myPeer = new Peer(undefined, {
 
 3- Run `npm start` to run node server.js
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Joaosilgo/WebRTC_zoom_app/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+
 
